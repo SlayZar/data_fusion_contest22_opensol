@@ -1,5 +1,5 @@
 # data_fusion_contest22_opensol
-Open Solution for [Data Fusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions)
+Открытое решение для [Data Fusion Contest 2022](https://ods.ai/tracks/data-fusion-2022-competitions)
 
 * Результаты на публичном лидерборде 
 
