@@ -10,7 +10,7 @@
 
 Решение для отправки в первую задачу - папка [catboost_baseline_subm](catboost_baseline_subm)
 
-Решение для отправки во вторую задачу - файл [puzzle_solution.csv](puzzle_solution.csv)
+Решение для отправки во вторую задачу - файл [puzzle_open_sol.csv](puzzle_open_sol.csv)
 
 Время от чтения данных до обученной модели по первой задаче - менее 6 минут.
 
